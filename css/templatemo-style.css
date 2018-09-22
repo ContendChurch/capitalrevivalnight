@@ -602,7 +602,10 @@ h2 {
 .about p {
 	font: 400 16px/30px 'Poppins', sans-serif;
 	color: #fff;
-	margin-bottom: 75px;
+}
+
+.about p:last-child {
+	margin-bottom: 50px;
 }
 
 .btn {
@@ -627,4 +630,12 @@ a:hover {
 
 .join a {
 	color: #fff;
+}
+
+.gallery {
+	margin-bottom: 100px;
+}
+
+.gallery h2 {
+	padding-bottom: 10px;
 }
