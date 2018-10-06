@@ -674,3 +674,8 @@ a:hover {
 .social-icons li a:hover {
 	background-color: #cd0e16;
 }
+
+.join-text {
+	padding-left: 100px;
+	padding-right: 100px;
+}
